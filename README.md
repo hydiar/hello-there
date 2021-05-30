@@ -5,8 +5,8 @@ C application to respond to your star wars reference in the terminal. Have your 
    ![General Kenobi!](readmefiles/hello-there.gif)
 
 
-<img src="https://raw.githubusercontent.com/hydiar/hello-there/main/readmefiles/generalkenobi.jpg" width="800" height="450">
+Based on the raw image frames taken from the film:
 
-![General Kenobi!](readmefiles/generalkenobi.jpg)
+<img src="https://raw.githubusercontent.com/hydiar/hello-there/main/readmefiles/generalkenobi.jpg" width="800" height="450">
 
 Written in C by Harry Powell.
