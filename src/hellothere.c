@@ -16,7 +16,6 @@ int main() {
 	for (i = 0; i < FRAMENUM; ++i) {
 		int status = system("clear");
 		printf("%s\n", loadframe(i, FRAMEHEIGHT, FRAMEWIDTH));
-		//sleep(1);
 		usleep(FRAMET * 1000);
 	}
 
@@ -25,7 +24,6 @@ int main() {
 }
 
 char * loadframe(int nframe, int height, int width) {
-	//char frame[height * width];
 	char *frame = malloc (sizeof (char) * (height * width));
 	FILE *fp;
 	int c, i, charcount;
