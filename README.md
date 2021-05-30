@@ -5,3 +5,4 @@ C application to respond to your star wars reference in the terminal. Have your 
 ![](hello-there.gif | width=100)
 
 
+< img src="https://github.com/hydiar/hello-there/blob/main/hello-there.gif" width="1000px"/ >
