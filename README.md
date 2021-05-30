@@ -1,6 +1,6 @@
 # Hello there!
 
-C application to respond to your star wars reference in the terminal. Have your uncontrollable star wars quotes answered, simply by installing and running the ./hellothere executable, or install as an application.
+C application to respond to your star wars reference in the terminal. Have your uncontrollable star wars quotes answered, simply by downloading and running the ./hellothere executable, or installing as an application.
 
 Demonstration:
 
